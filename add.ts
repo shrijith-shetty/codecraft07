@@ -7,5 +7,9 @@ function carSpeed(distance: number, velocity: number): number {
 }
 
 function subtract(a: number, b: number): number {
-  return a - b;
+    return a - b;
+}
+
+function mult(a: number, b: number): number {
+    return a * b;
 }
