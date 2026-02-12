@@ -1,3 +1,10 @@
+/**
+ * few fuctions
+ * @param a 
+ * @param b 
+ * @returns 
+ */
+
 function add(a: number, b: number): number {
     return a + b;
 }
